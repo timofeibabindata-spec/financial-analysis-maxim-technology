@@ -8,7 +8,7 @@
 
 ## Dashboard
 
-![Dashboard preview](images/dashboard_preview.png)
+![Dashboard preview](images/dashboard_preview.png.png)
 
 ## Основные вопросы анализа
 
